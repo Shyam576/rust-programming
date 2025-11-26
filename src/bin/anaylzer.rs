@@ -61,3 +61,5 @@ fn main() {
         println!("Sentences: {}", sentence_count);
     }
 }
+
+//cargo run --bin anaylzer -- -f random.txt --words --lines --chars
